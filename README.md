@@ -1,2 +1,2 @@
-# bibleplan.github.io
-https://bibleplan.github.io
+# spiritualformation.github.io
+https://spiritualformation.github.io
