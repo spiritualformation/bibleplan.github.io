@@ -9,7 +9,7 @@ github_username: spiritualformation
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-architect
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 timezone: America/Los_Angeles    
