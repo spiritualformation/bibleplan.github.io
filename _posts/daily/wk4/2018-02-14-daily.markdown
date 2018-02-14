@@ -1,6 +1,6 @@
 ---
 layout: daily
-title:  "第 4 週 第 3 天 雅各眾子"
+title:  "第 4 週 第 3 天 勝過試探"
 date:   2018-02-14
 categories: daily
 prevDay: "/daily/2018-02-13-daily.html"
@@ -9,7 +9,7 @@ weekly: "/guide/wk4.html"
 permalink: /daily/2018-02-14-daily.html
 ---
 
-### 問題：雅各的家庭和以撒的結局如何？
+### 希伯來書 3:15 因我們的大祭司並非不能體恤我們的軟弱，他也曾凡事受過試探，與我們一樣，只是他沒有犯罪。
 
 **讀經：[創世記 34-35【繁體】](https://www.biblegateway.com/passage/?search=gen.34-35&version=CUVMPT)**
 
