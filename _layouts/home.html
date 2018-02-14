@@ -7,7 +7,7 @@ title: {{ site.name }}
 ---
 
 <div id="home">
-  <h1>最新文章</h1>
+  <!--h1>最新文章</h1>
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
   
   <ul class="posts">
@@ -33,9 +33,9 @@ title: {{ site.name }}
     {% endfor %}
 
   </ul>
-  <hr> 
+  <hr--> 
   
-  <h1>今日讀經内容</h1>
+  <h1>靈修內容</h1>
   <h2>{{ todayPost.title }}</h2>
   <p class="meta">{{ todayPost.date | date: '%B %d, %Y' }}</p>
   {{ todayPost.content }}
