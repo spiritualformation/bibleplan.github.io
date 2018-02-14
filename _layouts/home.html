@@ -7,7 +7,7 @@ title: {{ site.name }}
 ---
 
 <div id="home">
-  <!--h1>最新文章</h1>
+  <!--h1>最新文章</h1-->
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
   
   <ul class="posts">
@@ -24,16 +24,16 @@ title: {{ site.name }}
           <li><span>{{ post.date | date: '%b %d, %Y' }}</span> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
         {% endif %}
 
-      {% else %}
+      <!--{% else %}
         
         <li><span>{{ post.date | date: '%b %d, %Y' }}</span> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
       
       {% endif %}
     
-    {% endfor %}
+    {% endfor %}-->
 
   </ul>
-  <hr--> 
+  <hr> 
   
   <h2>{{ todayPost.title }}</h2>
   <p class="meta">{{ todayPost.date | date: '%B %d, %Y' }}</p>
